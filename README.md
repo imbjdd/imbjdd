@@ -8,9 +8,9 @@
 ## 🔧 My Projects
 ### Open-source
 
-🔍 2024 BuildBloc: a web application to promote local hackathons | [Code](https://github.com/imbjdd/BuildBloc)
+🔍 BuildBloc: a web application to promote local hackathons | [Code](https://github.com/imbjdd/BuildBloc)
 
-🔍 2024 soon | [soon](https://github.com/SoveiLive/app-core)
+🔍 soon | [soon](https://github.com/SoveiLive/app-core)
 
 ### Course projects
 
