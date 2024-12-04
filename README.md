@@ -10,12 +10,6 @@
 
 🔍 BuildBloc: a web application to promote local hackathons | [Code](https://github.com/imbjdd/BuildBloc)
 
-🔍 soon | [soon](https://github.com/SoveiLive/app-core)
-
-### Course projects
-
-🔍 2024 soon | [soon](https://github.com/SoveiLive/app-core)
-
 ---
 
 ## 🏆 My Awards
