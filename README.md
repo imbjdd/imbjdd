@@ -8,6 +8,8 @@
 ## 🔧 My Projects
 ### Open-source
 
+♟️ Les Fous des Tours: Official website of a university chess club | [Code](https://github.com/imbjdd/lesfousdestours.fr)
+
 🔍 BuildBloc: a web application to promote local hackathons | [Code](https://github.com/imbjdd/BuildBloc)
 
 ---
