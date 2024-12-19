@@ -1,8 +1,6 @@
 # Salim
 🎓 Sorbonne university student | Mathematics & CS courses
 
-🔭 Open for internships
-
 ---
 
 ## 🔧 My Projects
