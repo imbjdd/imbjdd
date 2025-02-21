@@ -14,6 +14,8 @@
 
 ## 🏆 My Awards
 
+📯 Feb 2025, [<ins>Gaia and Collab.Land - Most Viral Agent & Flow - Best AI Agents for Consumers 3rd place, ETHGlobal Agents</ins>](https://github.com/juSt-jeLLy/Clash-of-Clout), ETHGlobal Agents 2025
+
 📯 Aug 2024, [<ins>2nd place winner for best use of Subgraph</ins>](https://github.com/imbjdd/ethglobal-brussels), ETHGlobal Brussels 2024
 
 📯 July 2023, [<ins>Building a DApp with DB3</ins>](https://github.com/SoveiLive/app-core), ETHShangai 2023
