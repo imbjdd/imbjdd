@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/imbjdd/imbjdd/refs/heads/main/Friend.jpeg">
+  <img src="20250617_2059_Anime Doomer Girl_simple_compose_01jxzm2eqtf60s0essc10xa29a.png">
 </p>
