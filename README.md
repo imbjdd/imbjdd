@@ -1,6 +1,7 @@
 | Hackathon                                | Project / Award                                              | Prize       |
 |------------------------------------------|---------------------------------------------------------------|-------------|
 | [ETHGlobal Agents](https://github.com/juSt-jeLLy/Clash-of-Clout)                          | Gaia & Collab.Land — Most Viral Agent & Flow 3rd place        | $3,500       |
+| Entrepreneur First AI Security                                       | First place                                   | $2,000       |
 | [ETHGlobal Cannes](https://github.com/imbjdd/loggerhead)                         | Best Cross-Chain DeFi on Flow (2nd place)                     | $1,500       |
 | [ETHGlobal Brussels](https://github.com/imbjdd/ethglobal-brussels)                        | The Graph — Best Use of Subgraph (2nd place)                  | $1,500       |
 | [Legal Frontier Hackathon](https://github.com/imbjdd/alphavibe-compliance)                  | 2nd place                                                     | $50           |
