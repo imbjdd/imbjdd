@@ -12,4 +12,5 @@
 | [Hackathon Campus Fund x Albert x 42](https://github.com/imbjdd/marketplace)       | Click and Collect                                             | -           |
 | Telecom Paris x IBM x Margo               | 4th place                                                     | $200           |
 | [Hugging Face x Anthropic x Unaite](https://github.com/vlad-ds/ml-agent)   | ML-Agent                                                      | -            |
-| [ChilizHack](https://github.com/DZ-Ramzy/chilizHack/)   |  Sports Quest AI Platform                                                      | -            |
+
+![](https://komarev.com/ghpvc/?username=imbjdd)
